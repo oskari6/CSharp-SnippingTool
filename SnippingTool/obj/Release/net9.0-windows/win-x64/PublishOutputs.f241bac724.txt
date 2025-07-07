@@ -1,0 +1,5 @@
+C:\Temp\snipping-tool\SnippingTool\bin\Release\net9.0-windows\win-x64\publish\SnippingTool.exe
+C:\Temp\snipping-tool\SnippingTool\bin\Release\net9.0-windows\win-x64\publish\SnippingTool.dll
+C:\Temp\snipping-tool\SnippingTool\bin\Release\net9.0-windows\win-x64\publish\SnippingTool.deps.json
+C:\Temp\snipping-tool\SnippingTool\bin\Release\net9.0-windows\win-x64\publish\SnippingTool.runtimeconfig.json
+C:\Temp\snipping-tool\SnippingTool\bin\Release\net9.0-windows\win-x64\publish\SnippingTool.pdb

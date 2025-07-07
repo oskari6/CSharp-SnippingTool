@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RxzG39YcXVs=",
+  "success": true,
+  "projectFilePath": "C:\\Temp\\snipping-tool\\SnippingTool\\SnippingTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OskariSulkakoski\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\OskariSulkakoski\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
